@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SciLab Precision Diagnostics",
+  "description": "A world-class diagnostic laboratory platform providing accurate, fast, and secure medical testing services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
